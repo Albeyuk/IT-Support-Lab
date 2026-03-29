@@ -1,2 +1,16 @@
-# IT-Support-Lab
-A hands-on IT Support and Systems Administration lab demonstrating user management, patching, monitoring, and Active Directory security concepts. Includes scripts and guides inspired by Level 3 Cyber Security labs.
+IT-Support-Lab/
+│
+├── README.md
+├── scripts/
+│   ├── create_users.ps1
+│   ├── patch_check.ps1
+│   ├── backup_automation.ps1
+│   └── network_monitor.py
+├── labs/
+│   ├── AD_Lab_Setup.md
+│   └── DVWA_Kali_Lab.md
+├── screenshots/
+│   └── example.png
+└── docs/
+    ├── hardening_windows.md
+    └── hardening_linux.md
